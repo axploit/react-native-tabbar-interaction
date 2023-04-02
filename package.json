@@ -29,7 +29,7 @@
   "homepage": "https://github.com/Mindinventory/react-native-tab-bar-interaction#readme",
   "dependencies": {
     "d3-shape": "3.0.1",
-    "react-native-svg": "^13.4.0"
+    "react-native-svg": "13.4.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.13",
